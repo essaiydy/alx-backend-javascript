@@ -1,9 +1,11 @@
 export default function returnHowManyArguments(...args) {
-    let i = 0;
-    let index = 0;
-    while (index < args.length) {
-        i++;
-        index++;
-    }
-    return i;
+  let count = 0;
+  let index = 0;
+
+  while (index < args.length) {
+    count += 1;
+    index += 1;
+  }
+
+  return count;
 }
