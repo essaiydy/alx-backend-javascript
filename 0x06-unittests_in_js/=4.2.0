@@ -1,0 +1,9 @@
++ eslint@8.57.1
++ typescript@5.7.2
+added 20 packages from 13 contributors, removed 48 packages, updated 32 packages, moved 1 package and audited 871 packages in 151.983s
+
+127 packages are looking for funding
+  run `npm fund` for details
+
+found 14 vulnerabilities (2 low, 4 moderate, 4 high, 4 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
